@@ -1,8 +1,30 @@
 <h1 align="center">Hi 👋, I'm Tanvi Markad</h1>
-<h3 align="center">A passionate AI & Data Science Enthusiast</h3>
 
-- 🎓 3rd Year Engineering Student (AI & DS Branch)
-- 📧 Reach me at: **tanvimarkad@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Top+Final+Year+Student+%7C+AI+%26+DS+Branch;Passionate+Python+Developer;AI+%7C+ML+%7C+Data+Analytics+%7C+Full+Stack+Learner" alt="Typing SVG" />
+</p>
+
+---
+
+### 🙋‍♀️ About Me
+
+- 🎓 **Final Year Engineering Student** – AI & Data Science Branch  
+- 🐍 Passionate Python Developer with interests in AI, ML, Web Dev & Analytics  
+- 🔍 Exploring Data Analytics, Machine Learning, AI Projects  
+- 📫 Reach me at: **markadtanvi@gmail.com**
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/tanvi-markad-3365b0290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -24,9 +46,18 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvimarkad&show_icons=true&theme=tokyonight" alt="Tanvi's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvimarkad&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvimarkad&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvimarkad&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### 🚧 Ongoing Projects
+- 🎯 **Campus Club Connect** – Central hub for college clubs with event registration
+
+---
+
+> 🔥 *"Always eager to learn, build, and contribute to meaningful projects."*
